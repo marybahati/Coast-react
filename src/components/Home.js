@@ -16,7 +16,7 @@ class Home extends React.Component{
 						Beauty of the coast</h1>
 						
 						<ul className="actions">
-							<li><a href="#header" className="button icon solid solo fa-arrow-down scrolly">Continue</a></li>
+							<li><a href="#header" className="oi oi-arrow-thick-bottombutton icon solid solo fa-arrow-down scrolly">Continue</a><span class=""></span></li>
 						</ul>
 			</div>
 

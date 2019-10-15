@@ -3246,6 +3246,7 @@ input, select, textarea {
 				position: fixed;
 				width: 100vw;
 				height: 100vh;
+				background-image: url('https://images.unsplash.com/photo-1468546211010-9a842bd2026e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60"), linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("https://images.unsplash.com/photo-1468546211010-9a842bd2026e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60');
 			}
 
 		#wrapper.fade-in:before {

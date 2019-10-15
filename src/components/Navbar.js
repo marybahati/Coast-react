@@ -10,23 +10,23 @@ class Navbar extends React.Component{
       return (
         <BrowserRouter>
         <nav id="nav">
-
+ 
 <ul className="links">
-<li className="active"><Link to="/Home">Home</Link></li>
-{/* <li><Link to="/Activities">Places</Link></li>
-<li><Link to="/Culture">Cultures</Link></li> */}
-</ul>
 
+ <li className="active"><Link to="/Home">Home</Link></li> 
+   {/* <li><Link to="/Activities">Places</Link></li>
+<li><Link to="/Culture">Cultures</Link></li> */}
+ </ul>
   <Route path="/Home" exact component={Home}>
   </Route>
-  <Route path="/Activities" component={Activities} />
-  <Route path="/Culture" component={Culture} />
+   {/* <Route path="/Activities" component={Activities} />
+  <Route path="/Culture" component={Culture} />  */}
   				
   <header id="header">
 						
 </header>
-  </nav>
-</BrowserRouter>
+   </nav>
+ </BrowserRouter>
       
 
 
