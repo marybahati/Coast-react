@@ -9,7 +9,7 @@ class Content extends React.Component{
             <article className="post featured">
                 <header className="major">
                     <span className="date">April 12, 2000</span>
-                    <h2><a href="http://afrotourism.com/travelogue/9-incredible-meals-you-should-taste-in-mombasa/" >Swahili Dishes<br />
+                    <h2><a href="#" >Swahili Dishes<br />
                     Fried Crabs</a></h2>
                     <p>This kind of food is usually cooked during festive seasons like<br />
                     Easter, Eid Mubarak and chrismas to celebrate eith family
