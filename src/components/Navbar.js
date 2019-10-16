@@ -12,13 +12,13 @@ class Navbar extends React.Component{
         <nav id="nav">
  
 <ul className="links">
-
- <li className="active"><Link to="/Home">Home</Link></li> 
+{/* <li className="active">Home</li>  */}
+ {/* <li className="active"><Link to="/Home">Home</Link></li>  */}
    {/* <li><Link to="/Activities">Places</Link></li>
 <li><Link to="/Culture">Cultures</Link></li> */}
  </ul>
-  <Route path="/Home" exact component={Home}>
-  </Route>
+
+  <Route path="/Home" exact component={Home}></Route>
    {/* <Route path="/Activities" component={Activities} />
   <Route path="/Culture" component={Culture} />  */}
   				
